@@ -1,4 +1,3 @@
-# SOC-Analyst-Casebook 
 # SOC Analyst Casebook
 
 Welcome to my SOC Analyst Casebook.
